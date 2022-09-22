@@ -1,0 +1,4 @@
+C:\Users\USER\Desktop\awesomeProject\My First Library\FizzBuzz Library\bin\Debug\netstandard1.4\FizzBuzz Library.deps.json
+C:\Users\USER\Desktop\awesomeProject\My First Library\FizzBuzz Library\obj\Debug\netstandard1.4\FizzBuzz Library.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\awesomeProject\My First Library\FizzBuzz Library\obj\Debug\netstandard1.4\FizzBuzz Library.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\awesomeProject\My First Library\FizzBuzz Library\obj\Debug\netstandard1.4\FizzBuzz Library.AssemblyInfo.cs

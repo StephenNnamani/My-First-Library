@@ -3832,11 +3832,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\My First Library\\FizzBuzz Library\\FizzBuzz Library.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\awesomeProject\\My First Library\\FizzBuzz Library\\FizzBuzz Library.csproj",
       "projectName": "FizzBuzz Library",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\My First Library\\FizzBuzz Library\\FizzBuzz Library.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\awesomeProject\\My First Library\\FizzBuzz Library\\FizzBuzz Library.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\My First Library\\FizzBuzz Library\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\awesomeProject\\My First Library\\FizzBuzz Library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
