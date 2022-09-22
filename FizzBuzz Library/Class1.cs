@@ -14,14 +14,12 @@ namespace FizzBuzz_Library
 
             Console.WriteLine(OddNumberGame(guess));
 
-            return guess;
-
             Console.ReadKey();            
         }
         private OddNumberGame(int guess)
         {
             int guess;
-
+            int[] oddsNum;
             do
             {
                 i = 1;
@@ -31,11 +29,13 @@ namespace FizzBuzz_Library
                 }
                 else
                 {
-                    Console.WriteLine(i);
+                    oddsNum.Append(i);
                     i++;
                     guess--;
                 }
             } while (guess != 0);
+
+            return oddsNum;
         }
     }
 }

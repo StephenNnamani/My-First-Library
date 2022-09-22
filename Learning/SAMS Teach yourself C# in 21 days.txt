@@ -1,0 +1,49 @@
+(c)2004
+Author:                Bradley L. Jones
+------------------------------------------------------------------------------------------
+
+C# is a language that was created by Microsoft and submitted to ECMA for standardization.
+Its creators were a team of people at Microsoft that included the guidance of Anders
+Hejlsberg. Interestingly, Hejlsberg is a Microsoft Distinguished Engineer who has created
+other products and languages, including Borland Turbo C++ and Borland Delphi.
+With C#, he and the team at Microsoft focused on using what was right about existing
+languages and adding improvements to make something better.
+
+Preparing to Program
+You should take certain steps when solving a problem. First, you must define the problem.
+If you don’t know what the problem is, you will never find the solution. After you
+know what the problem is, you can devise a plan to fix it. When you have a plan, you
+can usually implement it. After the plan is implemented, you must test the results to see
+whether the problem actually has been solved. This same logic can be applied to many
+other areas, including programming.
+When creating a program in C# (or in any language), you should follow a similar
+sequence of steps:
+1. Determine the objective(s) of the program.
+2. Determine the methods you want to use in writing the program.
+3. Create the program to solve the problem.
+4. Run the program to see the results.
+
+------------------------------------------------------------------------------------------------
+The Program-Development Cycle
+
+The program-development cycle has its own steps. 
+>>	In the first step, you use an editor to create a file that contains your source code.
+>>	In the second step, you compile the source code to create an intermediate file called either an executable file or a library file.
+>>	The third step is to run the program to see whether it works as originally planned.
+
+------------------------------------------------------------------------------------------------
+Understanding the Execution of a C# Program
+It is important to understand a little bit about how a C# program executes. C# programs
+are different from programs that you can create with many other programming languages.
+C# programs are created to run on the .NET Common Language Runtime (CLR). This
+means that if you create a C# executable program and try to run it on a machine that
+doesn’t have the CLR or a compatible runtime, the program won’t execute.
+
+
+if you wrote a C application and you wanted to run it on a Linux
+machine and a Windows machine, you would have to create two executable programs—
+one on a Linux machine and one on a Windows machine. With C#, you create only one
+executable program, and it runs on either machine.
+------------------------------------------------------------------------------------------------
+Create a C# Application from Start to Finish - Complete Course
+Start later from 20:00:00/23:58:41
